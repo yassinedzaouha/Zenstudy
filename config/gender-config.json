@@ -1,0 +1,82 @@
+{
+  "male": {
+    "greeting_prefix": "مرحباً",
+    "greeting_suffix": "💪",
+    "subtitle": "ماذا تود القيام به اليوم؟",
+    "pronouns": {
+      "you_feel": "تشعر",
+      "you_want": "تود",
+      "your": "ك",
+      "how_are_you": "كيف تشعر اليوم؟",
+      "organize": "نظم",
+      "get": "احصل على"
+    },
+    "colors": {
+      "primary": "#3b82f6",
+      "secondary": "#1e40af",
+      "gradient": "linear-gradient(135deg, #3b82f6, #1d4ed8)",
+      "bg": "linear-gradient(135deg, #eff6ff 0%, #dbeafe 50%, #bfdbfe 100%)",
+      "card_gradient": "linear-gradient(135deg, #3b82f6, #06b6d4)",
+      "shadow": "rgba(59, 130, 246, 0.4)"
+    },
+    "avatar": "👨",
+    "theme_name": "blue",
+    "menu_items": [
+      {
+        "title": "📋 خطة اليوم",
+        "description": "نظم يومك بذكاء",
+        "href": "plan.php"
+      },
+      {
+        "title": "🎯 نصيحة اليوم",
+        "description": "حكمة لتطوير الذات",
+        "href": "tips.php"
+      },
+      {
+        "title": "📊 الإحصائيات",
+        "description": "تتبع تقدمك الدراسي",
+        "href": "stats.php"
+      }
+    ]
+  },
+  "female": {
+    "greeting_prefix": "مرحباً",
+    "greeting_suffix": "🌸",
+    "subtitle": "ماذا تودين القيام به اليوم؟",
+    "pronouns": {
+      "you_feel": "تشعرين",
+      "you_want": "تودين",
+      "your": "ك",
+      "how_are_you": "كيف تشعرين اليوم؟",
+      "organize": "نظمي",
+      "get": "احصلي على"
+    },
+    "colors": {
+      "primary": "#a855f7",
+      "secondary": "#7c3aed",
+      "gradient": "linear-gradient(135deg, #a855f7, #ec4899)",
+      "bg": "linear-gradient(135deg, #fdf4ff 0%, #fef7ff 50%, #fce7f3 100%)",
+      "card_gradient": "linear-gradient(135deg, #a855f7, #ec4899)",
+      "shadow": "rgba(168, 85, 247, 0.4)"
+    },
+    "avatar": "👩",
+    "theme_name": "purple",
+    "menu_items": [
+      {
+        "title": "📅 خطة اليوم",
+        "description": "نظمي يومك بذكاء",
+        "href": "plan.php"
+      },
+      {
+        "title": "✨ نصيحة اليوم",
+        "description": "حكمة لتطوير الذات",
+        "href": "tips.php"
+      },
+      {
+        "title": "📊 الإحصائيات",
+        "description": "تتبعي تقدمك الدراسي",
+        "href": "stats.php"
+      }
+    ]
+  }
+}
